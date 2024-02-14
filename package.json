@@ -10,17 +10,8 @@
     "save": "git add . && git commit -m \"npm save\" && git push"
   },
   "dependencies": {
-    "qrcode.vue": "^1.6.2",
-    "vue": "^2.6.10",
-    "vue-router": "^3.0.6"
-  },
-  "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.8.0",
-    "@vue/cli-plugin-eslint": "^3.8.0",
-    "@vue/cli-service": "^3.8.4",
-    "babel-eslint": "^10.0.2",
-    "eslint": "^5.16.0",
-    "eslint-plugin-vue": "^5.2.3",
-    "vue-template-compiler": "^2.6.10"
+    "qrcode.vue": "3.4.1",
+    "vue": "3.4.19",
+    "vue-router": "4.2.5"
   }
 }
